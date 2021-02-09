@@ -1,0 +1,14 @@
+# Items
+item.openicbmcontrol.itemt1card.name=T1 Upgrade
+item.openicbmcontrol.itemt2card.name=T2 Upgrade
+item.openicbmcontrol.itemt3card.name=T3 Upgrade
+
+# Blocks
+tile.openicbmcontrol.launcherinterfaceblock.name=ICBM Controller
+
+# Creative Tabs
+itemGroup.openicbmcontrol.tabopenicbmcontrol=Open ICBM Controller
+
+# GUIs
+openicbmcontrol.gui.string.upgradeslot=Upgrade Slot
+openicbmcontrol.gui.string.icbmcontroller=ICBM Controller

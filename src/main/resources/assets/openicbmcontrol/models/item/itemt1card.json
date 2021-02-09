@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "openicbmcontrol:items/itemtag",
+		"layer1": "openicbmcontrol:items/itemtag_color"
+	}
+}

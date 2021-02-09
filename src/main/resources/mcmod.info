@@ -1,0 +1,16 @@
+[
+{
+  "modid": "opencargo",
+  "name": "Open Cargo",
+  "description": "Open Cargo",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Michiyo"],
+  "credits": "Michiyo, Forecaster",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
